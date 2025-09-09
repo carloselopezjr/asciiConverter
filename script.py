@@ -38,3 +38,5 @@ def colorEnhancementsPrint(asciiImg, columnAmount, monochromeValue):
     return 
 
 colorEnhancementsPrint(asciiImg, columnAmount, monochromeValue)
+
+print("hello world");
